@@ -8,7 +8,7 @@
 
 # Features
 This visor application provides the following features:
-- Visualization of a 3D Point Cloud
+- Visualization of 3D Point Clouds
 + Color representation of the cloud's inner properties
 * User-friendly parameter configuration for both visualization and representation
 
