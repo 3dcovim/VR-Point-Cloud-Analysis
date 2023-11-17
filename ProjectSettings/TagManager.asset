@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PropertiesText
+  - Menu
+  - PointCloudManager
+  - Pointer
+  - MenuManager
+  - StateManager
+  - Exhibitor
+  - TeleportSurface
+  - Window_Graph
+  - SoundManager
+  - ElevatorScrollbar
+  - MainMenu
+  - Point Cloud
+  - Floor
+  - ConfMenu
+  - HistogramGraph
+  - PropertyTextCanvas
+  - MainManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Teleport
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Text
+    uniqueID: 3334049735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
