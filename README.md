@@ -11,10 +11,12 @@ The goal of this Unity project is to interactively explore point clouds, allowin
 
 # Features
 This visor application provides the following features:
-- Visualization of 3D Point Clouds
-+ Color representation of the cloud's inner properties
+* Visualization of 3D Point Clouds
+* Color representation of the cloud's inner properties
 * User-friendly parameter configuration for both visualization and representation
-* Read PLY point clouds with scalar fields.
+* Read PLY point clouds with scalar fields
+* Plot scalar field evolution
+
 
 # Citation
 Reference this work:
