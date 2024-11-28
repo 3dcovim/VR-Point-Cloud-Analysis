@@ -37,6 +37,14 @@ Pérez E, Merchán P, Espacio A, Salamanca S. Fusion of Thermal Point Cloud Seri
 
 Pérez, Emiliano, Pilar Merchán, Alejandro Espacio, and Santiago Salamanca. 2024. "Fusion of Thermal Point Cloud Series of Buildings for Inspection in Virtual Reality" Buildings 14, no. 7: 2127. https://doi.org/10.3390/buildings14072127
 
+# Authors
+This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
+Click on the 3DCo-Vim to open the website of the group.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="(https://imgur.com/a/rNrq34j">
+  <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/rNrq34j">
+  <img alt="3DCo-Vim Logo." src="https://3dcovim.cms.unex.es/">
+</picture>
 
 # License
 These files are licensed under the Creative Commons Attribution license (CC BY 4.0)
