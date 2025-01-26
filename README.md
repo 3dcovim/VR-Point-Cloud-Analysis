@@ -21,7 +21,7 @@ This visor application provides the following features:
 # Citation
 Reference this work:
 
-[https://doi.org/10.3390/buildings14072127](url)
+[https://doi.org/10.3390/buildings14072127](https://doi.org/10.3390/buildings14072127)
 
 **MDPI and ACS Style:**
 
